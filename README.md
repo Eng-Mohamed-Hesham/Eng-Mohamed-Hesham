@@ -9,7 +9,9 @@
 </p> 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eng-Mohamed-Hesham?tab=repositories](https://github.com/Eng-Mohamed-Hesham?tab=repositories)
-- 💞️ I’m looking to collaborate on Embedded Software in Automotive field.
+- 💞️ I’m looking to collaborate on Embedded Software.
+- have experience in frontend Angular.
+- I currently studing backend PhP NodeJS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
